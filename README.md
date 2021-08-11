@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Open source projects 
 - 🤔 I’m looking for help with youtube 
 - 📫 How to reach me: ansaritanweer836@gmail.com
-  
 - ⚡ Fun fact:The feeling of getting lost inside a mall is known as the Gruen transfer.
+
 [![Tanweer's github stats](https://github-readme-stats.vercel.app/api?username=Tanweer52&show_icons=true&theme=radical)](https://github.com/Tanweer52/github-readme-stats)
 
