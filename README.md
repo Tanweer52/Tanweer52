@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [GfG](GfG)
 
-- 💬 Ask me about **C++, React**, Java**
+- 💬 Ask me about **C++, React**, **Java
 
 - 📫 How to reach me **ansaritanweer836@gmail.com**
 
